@@ -4,6 +4,6 @@ These vulnerabilities were detected by the automated DevSecOps pipeline but
 **could not be automatically remediated**. Each must be reviewed and either
 fixed manually or formally accepted as a known risk.
 
-Generated: 2026-11-22T15:38:49.260036Z
+Generated: 2026-11-22T15:39:25.335271Z
 
 No unresolved findings — all detected vulnerabilities were automatically remediated.
